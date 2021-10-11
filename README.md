@@ -8,10 +8,10 @@ A Java program using socket programming that creates a simple chat session appli
 
 ## Execution
 
-Server:
+Server: start a server first in the terminal
 
 ![Server](Images/Server.png)
 
-Client:
+Client: now start a client in the terminal
 
 ![Client](Images/Client.png)
